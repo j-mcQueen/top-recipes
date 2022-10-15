@@ -29,4 +29,6 @@ As of 10/11/2021:
 
 ## notes
 
-I renamed the first two recipe's HTML and CSS files and committed them, unaware that doing so creates new files on GitHub and loses git history. Consequently, to keep the GitHub directory clean I've had to delete the files with the old names (and all the history). Mistake made, lesson learned.
+- I renamed the first two recipe's HTML and CSS files and committed them, unaware that doing so creates new files on GitHub and loses git history. Consequently, to keep the GitHub directory clean I've had to delete the files with the old names (and all the history). Mistake made, lesson learned.
+
+- Github pages and live preview are not currently matching (as of 15/10/22), have tried clearing my cache and deleting `gh-pages` branch from the server and pushing again; both to no avail.
