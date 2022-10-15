@@ -1,6 +1,6 @@
 # reciperack
 
-This project was developed as part of The Odin Project's Foundations course. Check out the [live version](https://silverwish.github.io/top-recipes/) of my recipe website.
+This project was developed as part of The Odin Project's Foundations course. Check out the [live version](https://j-mcQueen.github.io/top-recipes/) of my recipe website.
 
 ## about this project
 
